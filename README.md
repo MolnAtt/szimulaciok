@@ -1,0 +1,2 @@
+# szimulaciok
+Szimulációs projektfeladatok
